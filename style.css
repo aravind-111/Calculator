@@ -4,6 +4,14 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+body {
+  display: flex;
+  align-items: center;
+  /* margin: 0 auto 0 auto; */
+  justify-content: center;
+  height: 100vh;
+}
+
 .calculator {
   width: 20rem;
   height: 30rem;
